@@ -1,0 +1,12 @@
+*.class
+*.jar
+*.classpath
+*.project
+*~
+*.dump
+*.swp
+*.DS_Store
+
+.settings/
+bin/
+
