@@ -72,14 +72,18 @@ Tåginformation från Tåg.Info (http://tåg.info)
 
 
 ***** HOW TO RUN *****
-
 requires: jdk, ant
 
-0) download the repo
+0) git clone git@github.com:rojters/train-info.git 
 1) ant compile
 2) ant jar
 
 Run using the train-info script OR java -jar
+
+Try it out with:
+
+> train-info ./"Stockholm C"
+
 If you find it usefull you can put the jar file and script in some folder that's in your PATH.
 
 ***** FAQ *****
