@@ -20,13 +20,14 @@ public class Main {
 		}
 		
 		String input = args[0].trim();
-		
+		String apiKey = "johreu120123";
+
 		if (isInteger(args[0])) {
-			TrainParser tps = new TrainParser(input, "myapikey");
+			TrainParser tps = new TrainParser(input, apiKey);
 			tps.print();
 			
 		} else {
-			TrainTableParser ttp = new TrainTableParser(input, "myapikey");
+			TrainTableParser ttp = new TrainTableParser(input, apiKey);
 			ttp.print();
 		}
 	}
