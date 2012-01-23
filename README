@@ -84,5 +84,5 @@ If you find it usefull you can put the jar file and script in some folder that's
 
 ***** FAQ *****
 Q: Hold on, how can I be sure to trust this information? What if I miss my train!
-A: The program uses the tåg.info API which in turn uses information available @ Trafikverket 
-   (the Swedish Transport Administration) and is the agency responsible for all railway traffic.
+A: The program uses the tåg.info API which in turn uses information available @ Trafikverket
+(the Swedish Transport Administration) and is the agency responsible for all railway traffic.
