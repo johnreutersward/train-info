@@ -7,10 +7,12 @@ Most of the output is in Swedish.
 
 Instructions
 ------------
-* git clone git://github.com/rojters/train-info.git
-* ant compile
-* ant jar
+1. git clone git://github.com/rojters/train-info.git
+2. ant compile
+3. ant jar
+
 * ./train-info "Stockholm C"
+OR
 * ./train-info 796
 
 Screenshots
@@ -21,5 +23,5 @@ Screenshots
 FAQ
 ---
 * Q: Hold on, how can I be sure to trust this information? What if I miss my train!
-* A: The program uses the tåg.info API which in turn uses information available @ Trafikverket (the Swedish Transport Administration) and is the agency responsible for all railway traffic.
+* A: The program uses the tåg.info API which in turn uses information available @ Trafikverket (the Swedish Transport Administration) which is the agency responsible for all railway traffic.
 
