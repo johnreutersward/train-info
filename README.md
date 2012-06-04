@@ -10,10 +10,7 @@ Instructions
 1. git clone git://github.com/rojters/train-info.git
 2. ant compile
 3. ant jar
-
-* ./train-info "Stockholm C"
-OR
-* ./train-info 796
+4. Example run: ./train-info "Stockholm C" OR ./train-info 796
 
 Screenshots
 -----------
